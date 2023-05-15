@@ -14,6 +14,27 @@
 		8231F1882A0C7EE200635965 /* RethinkTakeHomeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1872A0C7EE200635965 /* RethinkTakeHomeTests.swift */; };
 		8231F1922A0C7EE200635965 /* RethinkTakeHomeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1912A0C7EE200635965 /* RethinkTakeHomeUITests.swift */; };
 		8231F1942A0C7EE200635965 /* RethinkTakeHomeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1932A0C7EE200635965 /* RethinkTakeHomeUITestsLaunchTests.swift */; };
+		8231F1A22A0C84FD00635965 /* Users.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A12A0C84FD00635965 /* Users.swift */; };
+		8231F1A42A0C862900635965 /* Posts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A32A0C862900635965 /* Posts.swift */; };
+		8231F1A62A0C86F000635965 /* Comments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A52A0C86F000635965 /* Comments.swift */; };
+		8231F1A92A0C879100635965 /* ResourceRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A82A0C879100635965 /* ResourceRequest.swift */; };
+		8231F1AB2A0C87E200635965 /* ResourceRequestError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1AA2A0C87E200635965 /* ResourceRequestError.swift */; };
+		8231F1AE2A0C9D4100635965 /* UsersHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1AD2A0C9D4100635965 /* UsersHandler.swift */; };
+		8231F1B32A0DA63500635965 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1B22A0DA63500635965 /* UserView.swift */; };
+		8231F1B52A0DA65800635965 /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1B42A0DA65800635965 /* PostView.swift */; };
+		8231F1B72A0DA67300635965 /* CommentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1B62A0DA67300635965 /* CommentView.swift */; };
+		8231F1BE2A0EBE0300635965 /* ResourceRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A82A0C879100635965 /* ResourceRequest.swift */; };
+		8231F1BF2A0EC4A200635965 /* ResourceRequestError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1AA2A0C87E200635965 /* ResourceRequestError.swift */; };
+		8231F1C02A0F06AC00635965 /* UsersHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1AD2A0C9D4100635965 /* UsersHandler.swift */; };
+		8231F1C12A0F06CD00635965 /* Users.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A12A0C84FD00635965 /* Users.swift */; };
+		8231F1C22A0F071E00635965 /* Comments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A52A0C86F000635965 /* Comments.swift */; };
+		8231F1C32A0F072200635965 /* Posts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1A32A0C862900635965 /* Posts.swift */; };
+		8231F1C52A12A9C800635965 /* PostsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1C42A12A9C800635965 /* PostsHandler.swift */; };
+		8231F1C72A12A9FA00635965 /* CommentsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1C62A12A9FA00635965 /* CommentsHandler.swift */; };
+		8231F1C92A12AA3400635965 /* ExpandableItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1C82A12AA3400635965 /* ExpandableItem.swift */; };
+		8231F1CA2A12F37600635965 /* ExpandableItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1C82A12AA3400635965 /* ExpandableItem.swift */; };
+		8231F1CB2A12F38300635965 /* PostsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1C42A12A9C800635965 /* PostsHandler.swift */; };
+		8231F1CC2A12F38A00635965 /* CommentsHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8231F1C62A12A9FA00635965 /* CommentsHandler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +65,18 @@
 		8231F18D2A0C7EE200635965 /* RethinkTakeHomeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RethinkTakeHomeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8231F1912A0C7EE200635965 /* RethinkTakeHomeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RethinkTakeHomeUITests.swift; sourceTree = "<group>"; };
 		8231F1932A0C7EE200635965 /* RethinkTakeHomeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RethinkTakeHomeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8231F1A12A0C84FD00635965 /* Users.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Users.swift; sourceTree = "<group>"; };
+		8231F1A32A0C862900635965 /* Posts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Posts.swift; sourceTree = "<group>"; };
+		8231F1A52A0C86F000635965 /* Comments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comments.swift; sourceTree = "<group>"; };
+		8231F1A82A0C879100635965 /* ResourceRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceRequest.swift; sourceTree = "<group>"; };
+		8231F1AA2A0C87E200635965 /* ResourceRequestError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourceRequestError.swift; sourceTree = "<group>"; };
+		8231F1AD2A0C9D4100635965 /* UsersHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsersHandler.swift; sourceTree = "<group>"; };
+		8231F1B22A0DA63500635965 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
+		8231F1B42A0DA65800635965 /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
+		8231F1B62A0DA67300635965 /* CommentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentView.swift; sourceTree = "<group>"; };
+		8231F1C42A12A9C800635965 /* PostsHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostsHandler.swift; sourceTree = "<group>"; };
+		8231F1C62A12A9FA00635965 /* CommentsHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsHandler.swift; sourceTree = "<group>"; };
+		8231F1C82A12AA3400635965 /* ExpandableItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +127,11 @@
 		8231F1752A0C7EE100635965 /* RethinkTakeHome */ = {
 			isa = PBXGroup;
 			children = (
+				8231F1B12A0DA62100635965 /* Views */,
+				8231F1AC2A0C9D2800635965 /* Handlers */,
+				8231F1A72A0C877A00635965 /* Networking */,
+				8231F1A02A0C84EB00635965 /* Models */,
 				8231F1762A0C7EE100635965 /* RethinkTakeHomeApp.swift */,
-				8231F1782A0C7EE100635965 /* ContentView.swift */,
 				8231F17A2A0C7EE200635965 /* Assets.xcassets */,
 				8231F17C2A0C7EE200635965 /* Preview Content */,
 			);
@@ -125,6 +161,47 @@
 				8231F1932A0C7EE200635965 /* RethinkTakeHomeUITestsLaunchTests.swift */,
 			);
 			path = RethinkTakeHomeUITests;
+			sourceTree = "<group>";
+		};
+		8231F1A02A0C84EB00635965 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				8231F1A12A0C84FD00635965 /* Users.swift */,
+				8231F1A32A0C862900635965 /* Posts.swift */,
+				8231F1A52A0C86F000635965 /* Comments.swift */,
+				8231F1C82A12AA3400635965 /* ExpandableItem.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		8231F1A72A0C877A00635965 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				8231F1A82A0C879100635965 /* ResourceRequest.swift */,
+				8231F1AA2A0C87E200635965 /* ResourceRequestError.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		8231F1AC2A0C9D2800635965 /* Handlers */ = {
+			isa = PBXGroup;
+			children = (
+				8231F1AD2A0C9D4100635965 /* UsersHandler.swift */,
+				8231F1C42A12A9C800635965 /* PostsHandler.swift */,
+				8231F1C62A12A9FA00635965 /* CommentsHandler.swift */,
+			);
+			path = Handlers;
+			sourceTree = "<group>";
+		};
+		8231F1B12A0DA62100635965 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				8231F1782A0C7EE100635965 /* ContentView.swift */,
+				8231F1B22A0DA63500635965 /* UserView.swift */,
+				8231F1B42A0DA65800635965 /* PostView.swift */,
+				8231F1B62A0DA67300635965 /* CommentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -258,7 +335,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				8231F1792A0C7EE100635965 /* ContentView.swift in Sources */,
+				8231F1A92A0C879100635965 /* ResourceRequest.swift in Sources */,
+				8231F1C52A12A9C800635965 /* PostsHandler.swift in Sources */,
+				8231F1A62A0C86F000635965 /* Comments.swift in Sources */,
+				8231F1A22A0C84FD00635965 /* Users.swift in Sources */,
+				8231F1AB2A0C87E200635965 /* ResourceRequestError.swift in Sources */,
+				8231F1C92A12AA3400635965 /* ExpandableItem.swift in Sources */,
+				8231F1C72A12A9FA00635965 /* CommentsHandler.swift in Sources */,
+				8231F1AE2A0C9D4100635965 /* UsersHandler.swift in Sources */,
 				8231F1772A0C7EE100635965 /* RethinkTakeHomeApp.swift in Sources */,
+				8231F1B32A0DA63500635965 /* UserView.swift in Sources */,
+				8231F1B52A0DA65800635965 /* PostView.swift in Sources */,
+				8231F1B72A0DA67300635965 /* CommentView.swift in Sources */,
+				8231F1A42A0C862900635965 /* Posts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +355,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8231F1CC2A12F38A00635965 /* CommentsHandler.swift in Sources */,
+				8231F1BF2A0EC4A200635965 /* ResourceRequestError.swift in Sources */,
 				8231F1882A0C7EE200635965 /* RethinkTakeHomeTests.swift in Sources */,
+				8231F1CA2A12F37600635965 /* ExpandableItem.swift in Sources */,
+				8231F1BE2A0EBE0300635965 /* ResourceRequest.swift in Sources */,
+				8231F1C22A0F071E00635965 /* Comments.swift in Sources */,
+				8231F1C12A0F06CD00635965 /* Users.swift in Sources */,
+				8231F1C02A0F06AC00635965 /* UsersHandler.swift in Sources */,
+				8231F1CB2A12F38300635965 /* PostsHandler.swift in Sources */,
+				8231F1C32A0F072200635965 /* Posts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2D69F5FD-FF85-408B-8FDD-E535088C5C9A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45B178B4-53B3-4DB8-955D-7F17A46D730E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
+            landmarkName = "testFetchChildren()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45B178B4-53B3-4DB8-955D-7F17A46D730E - 4f8088dd56e69527"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "2048">
+               </Location>
+               <Location
+                  uuid = "45B178B4-53B3-4DB8-955D-7F17A46D730E - 5ba7b22f98fd125"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+               <Location
+                  uuid = "45B178B4-53B3-4DB8-955D-7F17A46D730E - dbac6ba39c542d23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+               <Location
+                  uuid = "45B178B4-53B3-4DB8-955D-7F17A46D730E - 4f8088dd56e69527"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "2044">
+               </Location>
+               <Location
+                  uuid = "45B178B4-53B3-4DB8-955D-7F17A46D730E - 5ba7b22f98fd125"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+               <Location
+                  uuid = "45B178B4-53B3-4DB8-955D-7F17A46D730E - dbac6ba39c542d23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "314"
+                  endingLineNumber = "314"
+                  offsetFromSymbolStart = "1488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EACCE6A-5028-4F85-9D97-79520C04AB69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RethinkTakeHome/Networking/ResourceRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetch(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6EACCE6A-5028-4F85-9D97-79520C04AB69 - efa8114299a7d010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RethinkTakeHome.MockNetworkService.fetch(Foundation.URL) async throws -&gt; (Foundation.Data, __C.NSURLResponse)"
+                  moduleName = "RethinkTakeHome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHome/Networking/ResourceRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "6EACCE6A-5028-4F85-9D97-79520C04AB69 - a142ae1c6c8fe6c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for RethinkTakeHomeTests.MockNetworkService.fetch(Foundation.URL) async throws -&gt; (Foundation.Data, __C.NSURLResponse)"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHome/Networking/ResourceRequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28A5AD54-0DB3-4982-9A25-CF533C4EB572"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "testFetchChildren()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28A5AD54-0DB3-4982-9A25-CF533C4EB572 - 4f8088dd56e6945b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "318"
+                  endingLineNumber = "318"
+                  offsetFromSymbolStart = "3296">
+               </Location>
+               <Location
+                  uuid = "28A5AD54-0DB3-4982-9A25-CF533C4EB572 - 5ba7b22f98fd059"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "318"
+                  endingLineNumber = "318"
+                  offsetFromSymbolStart = "3196">
+               </Location>
+               <Location
+                  uuid = "28A5AD54-0DB3-4982-9A25-CF533C4EB572 - dbac6ba39c542c5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "318"
+                  endingLineNumber = "318"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "28A5AD54-0DB3-4982-9A25-CF533C4EB572 - 4f8088dd56e695e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "3044">
+               </Location>
+               <Location
+                  uuid = "28A5AD54-0DB3-4982-9A25-CF533C4EB572 - 5ba7b22f98fd1e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "2944">
+               </Location>
+               <Location
+                  uuid = "28A5AD54-0DB3-4982-9A25-CF533C4EB572 - dbac6ba39c542de1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for RethinkTakeHomeTests.ExpandableItemTests.testFetchChildren() async throws -&gt; ()"
+                  moduleName = "RethinkTakeHomeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/taylorsimpson/workspace/RethinkTakeHome/RethinkTakeHomeTests/RethinkTakeHomeTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "316"
+                  endingLineNumber = "316"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

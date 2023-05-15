@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>RethinkTakeHomeTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8231F1722A0C7EE100635965</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8231F1822A0C7EE200635965</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8231F18C2A0C7EE200635965</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
